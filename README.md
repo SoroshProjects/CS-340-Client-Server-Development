@@ -1,6 +1,7 @@
 # CS-340-Client-Server-Development
 1. How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
-    
+- Design and developing modular applications makes them highly maintainable and easy for any other developer to read and understand. Following object-oriented principles paves the path to create an application that can be easily expanded and add new functionality to it. The modular design also helps to prevent application development to become unnecessarily complex and complicated.
 2. How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
-    
+- Analyzing any problem at the beginning stages can be hard and complex and it can overwhelm the developer. To understand a problem, it must first broken down to simpler and smaller problems that are easier to solve and analyze. Then find the right solution for each smaller problem. Finally integrate those smaller solution togather for compatibilty and achieve the result to the beginning problem.
 3. What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+- Computer scientists analyze each problem to find the best possible solution for it. They also collaborate with each other and collectively find an optimized solution for a problem.
